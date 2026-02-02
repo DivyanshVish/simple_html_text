@@ -1,6 +1,6 @@
 name: simple_html_text
 description: Lightweight inline HTML styled text for Flutter (b, i, u, color, size).
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/DivyanshVish/simple_html_text
 
 
